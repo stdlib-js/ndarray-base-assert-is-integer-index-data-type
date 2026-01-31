@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isIntegerIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-integer-index-data-type@deno/mod.js';
+import isIntegerIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-integer-index-data-type@v0.1.0-deno/mod.js';
 ```
 
 #### isIntegerIndexDataType( value )
@@ -88,7 +88,7 @@ bool = isIntegerIndexDataType( 'int32' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isIntegerIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-integer-index-data-type@deno/mod.js';
+import isIntegerIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-integer-index-data-type@v0.1.0-deno/mod.js';
 
 var bool = isIntegerIndexDataType( 'binary' );
 // returns false
